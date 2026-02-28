@@ -2,6 +2,10 @@
 
 Vue 3 + Vite search UI which fetches data from a dummy API and allows filtering, expanding results and changing theme.
 
+## Walkthrough
+
+![Project walkthrough](public/walkthrough%20video%20of%20project.gif)
+
 ## Running locally
 
 Node 20+ and npm 10+ required.
